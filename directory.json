@@ -1,0 +1,49 @@
+{
+    "pages": [
+        {
+            "directory": "northern-telecom-central-office-service-analyzer-teardown.html",
+            "title": "Northern Telecom Central Office Service Analyzer Teardown", 
+            "desc": "Tearing down an old piece of central office test equipment!", 
+            "date": "2022/08/13", 
+            "cover": "IMG_1111.jpg",
+            "album": "/photos/service_analyzer",
+            "tags": []
+        },
+        {
+            "directory": "decapped-chips-under-the-microscope.html",
+            "title": "Decapped chips under the microscope", 
+            "desc": "A while back I decapped a bunch of chips to extract the dies for inspection. I had decent success, and yesterday I bought a cheap HDMI capture device that I used to take some pictures. ", 
+            "date": "2010/01/10",
+            "cover": "741.jpg",
+            "album": "/photos/die_shots",
+            "tags":[]
+        },
+        {
+            "directory": "old.html",
+            "title": "Having fun with basic HTML, decided to make a Geocities inspired page", 
+            "desc": "Feel free to have a look, it has many GIFs!", 
+            "date": "2023/02/31", 
+            "cover": "",
+            "album": "",
+            "tags": []
+        },
+        {
+            "directory": "sourcing-parts.html",
+            "title": "Sourcing Parts", 
+            "desc": "Some of my favourite places and ways to get components for projects", 
+            "date": "2023/03/03", 
+            "cover": "",
+            "album": "",
+            "tags": []
+        },
+        {
+            "directory": "making-a-website.html",
+            "title": "Making A Website", 
+            "desc": "I finally got around to making a proper website", 
+            "date": "2023/03/03", 
+            "cover": "",
+            "album": "",
+            "tags": []
+        }
+    ]
+}
