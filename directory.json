@@ -44,6 +44,15 @@
             "cover": "",
             "album": "",
             "tags": []
-        }
+        },
+	{
+	    "directory": "testing.html",
+	    "title": "Testing page",
+	    "desc": "This is a test, please ignore.",
+	    "date": "2023/09/13",
+	    "cover": "",
+	    "album": "",
+	    "tags": []
+	}
     ]
 }
